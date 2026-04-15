@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Osmond 👋
 
-<!--
-**OsmondJnr/OsmondJnr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I enjoy building useful software and learning by shipping projects.
+- 🌱 I’m currently focused on improving my software engineering skills through hands-on projects.
+- 🤝 I’m open to collaborating on practical, beginner-friendly, and open-source ideas.
+- 💬 Ask me about coding, problem-solving, and project building.
+- 📫 You can reach me directly through GitHub.
+
+## 🧰 Tech Stack
+
+JavaScript • TypeScript • Python • Git • GitHub • Linux
+
+## 📌 Featured Work
+
+Check out my pinned repositories below for projects I’m currently building and improving.
+
+## 📊 GitHub Stats
+
+![Osmond's GitHub statistics showing repository activity and contributions](https://github-readme-stats.vercel.app/api?username=OsmondJnr&show_icons=true&theme=default)
+
+---
+
+Thanks for visiting ⭐
