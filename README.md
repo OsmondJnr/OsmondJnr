@@ -5,19 +5,18 @@ Welcome to my GitHub profile.
 ## 🚀 About Me
 
 - 💻 I enjoy building useful software and learning by shipping projects.
-- 🌱 Currently growing in: **[add your current focus area]**
-- 🤝 Open to collaboration on: **[add project types/tech]**
-- 💬 Ask me about: **[add topics you like discussing]**
-- 📫 Reach me at: **[add your preferred contact method]**
+- 🌱 I’m currently focused on improving my software engineering skills through hands-on projects.
+- 🤝 I’m open to collaborating on practical, beginner-friendly, and open-source ideas.
+- 💬 Ask me about coding, problem-solving, and project building.
+- 📫 You can reach me directly through GitHub.
 
 ## 🧰 Tech Stack
 
-`[add your core languages/tools here]`
+JavaScript • TypeScript • Python • Git • GitHub • Linux
 
 ## 📌 Featured Work
 
-- **[Project Name]** — [short one-line description]
-- **[Project Name]** — [short one-line description]
+Check out my pinned repositories below for projects I’m currently building and improving.
 
 ## 📊 GitHub Stats
 
