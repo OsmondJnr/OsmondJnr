@@ -21,7 +21,7 @@ Welcome to my GitHub profile.
 
 ## 📊 GitHub Stats
 
-![Osmond's GitHub stats](https://github-readme-stats.vercel.app/api?username=OsmondJnr&show_icons=true&theme=default)
+![Osmond's GitHub statistics showing repository activity and contributions](https://github-readme-stats.vercel.app/api?username=OsmondJnr&show_icons=true&theme=default)
 
 ---
 
